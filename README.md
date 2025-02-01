@@ -3,6 +3,18 @@
  
 ![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=200&section=header&text=AppleJun's%20Github&fontSize=90&animation=fadeIn&fontColor=000000)
 
+## Profile
+<a href="https://mulberry-library-bb2.notion.site/s-Profile-18dc3ff7339780458601f485f0d5532c">
+    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Profile">
+</a>
+<a href="mailto:bsj039190@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="https://github.com/bsj039190">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github Profile">
+</a>
+
+
 <!-- 기술스택 -->
 <!-- https://github.com/Ileriayo/markdown-badges -->
 ### 현재 기술들
@@ -29,7 +41,7 @@
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-## Stats
+### Stats
 <!-- 깃허브 통계 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bsj039190&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsj039190&layout=compact)
@@ -37,6 +49,7 @@
 
 
 </div>
+
 <!--
 **bsj039190/bsj039190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
