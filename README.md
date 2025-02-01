@@ -1,5 +1,7 @@
+<div align="center">
 <!-- [## Hi there 👋](https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md#venom) 제목 부분 -->
-![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=200&section=header&text=Data%20Analyst&fontSize=90&animation=fadeIn&fontColor=000000)
+ 
+![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=200&section=header&text=AppleJun's%20Github&fontSize=90&animation=fadeIn&fontColor=000000)
 
 <!-- 기술스택 -->
 <!-- https://github.com/Ileriayo/markdown-badges -->
@@ -34,7 +36,7 @@
 
 
 
-
+</div>
 <!--
 **bsj039190/bsj039190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
