@@ -41,11 +41,11 @@
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
+<!--
 ### Stats
-<!-- 깃허브 통계 -->
+깃허브 통계
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bsj039190&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsj039190&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsj039190&layout=compact) -->
 
 
 </div>
